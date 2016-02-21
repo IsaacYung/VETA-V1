@@ -1,2 +1,3 @@
-# Veta-V1
-Arduino project for Engineering introduction
+# VETA - Veículo Terra Água
+
+Projeto Arduino de introdução a engenharia
