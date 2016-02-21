@@ -5,4 +5,4 @@ Projeto Arduino de introdução a engenharia
 É um veículo Anfíbio (que consegue se locomover pela terra e água) e utiliza em boa parte de sua estrutura objetos recicláveis, diminuindo assim o seu custo final.
 
 ![alt tag](https://raw.githubusercontent.com/IsaacYung/VETA-V1/master/prototype-design/watertest.png) 
-Prototipo em teste na água
+Protótipo em teste na água
